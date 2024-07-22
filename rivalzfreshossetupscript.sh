@@ -2,6 +2,7 @@
 
 # Installs the necessary dependencies for nomachine
 sudo apt install wget apt-transport-https gnupg2 software-properties-common -y
+sudo apt install -y htop
 
 # Download nomachine
 wget https://download.nomachine.com/download/8.12/Linux/nomachine_8.12.12_4_amd64.deb
