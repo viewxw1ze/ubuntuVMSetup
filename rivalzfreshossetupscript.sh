@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Installs the necessary dependencies for nomachine
 sudo apt install wget apt-transport-https gnupg2 software-properties-common -y
 
