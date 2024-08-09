@@ -5,7 +5,7 @@ sudo apt install wget apt-transport-https gnupg2 wget software-properties-common
 sudo apt install -y htop -y
 
 # Download nomachine
-wget https://download.nomachine.com/download/8.12/Linux/nomachine_8.12.12_4_amd64.deb
+wget https://download.nomachine.com/download/8.13/Linux/nomachine_8.13.1_1_amd64.deb
 
 # Install nomachine
 sudo apt install -f ./nomachine_8.12.12_4_amd64.deb
