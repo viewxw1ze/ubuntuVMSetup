@@ -8,6 +8,6 @@ sudo apt install -y htop -y
 wget https://download.nomachine.com/download/8.13/Linux/nomachine_8.13.1_1_amd64.deb
 
 # Install nomachine
-sudo apt install -f ./nomachine_8.12.12_4_amd64.deb
+sudo apt install -f ./nomachine_8.13.1_1_amd64.deb
 
 echo "Installation complete. Nomachine have been installed. You can now connect via Nomachine SSH."
